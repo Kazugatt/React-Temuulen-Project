@@ -16,7 +16,7 @@ function Header() {
               <ul className="navbar-nav me-auto mb-2 mb-lg-0" id="menuTarget">
                 <li className="nav-item">
                   <a className="nav-link active" aria-current="page" href="/budget-shoppy/fetch.html">
-                    Home
+                    Home bi tng
                   </a>
                 </li>
               </ul>
